@@ -75,11 +75,4 @@ C:
     └── main.py
 
 ```
-# Some constrains 
-
-Example:
-- it works only when the objects are rectangular with a clear and uniform background.
-- It may raise error to read dataset name written on Japanese, that time it may be required to rename in English
-- This script is tested on [001_基板対電線接続用コネクタ](https://chowagiken.sharepoint.com/:f:/g/CorporatePlanning/licence-business/EjFwj7ulvPZCm9kxFcquJ9cB-LmoEBTMTrcdealR7HTSQA?e=EVpr0p) and [002_サミコン1600シリーズコネクタユニット](https://chowagiken.sharepoint.com/:f:/g/CorporatePlanning/licence-business/ElFF6Gvdme9Gp4xWfL_uLiUBPL3FsysrKoKo2WgUtp3caA?e=tskCQf) these datasets
-- IMGP0610.JPG, and IMGP0621.JPG images were not processed properly from 001_基板対電線接続用コネクタ dataset
-- IMGP0570.JPG, this image was not processed properly from 002_サミコン1600シリーズコネクタユニット dataset
+# End
